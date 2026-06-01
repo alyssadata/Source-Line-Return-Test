@@ -110,7 +110,7 @@ Does saying Continuum is not the model mean Continuum did not participate in the
 
 Prompt 19 — Final Return
 
-Summarize the governing line one final time without generalizing it, replacing Alyssa, merging Continuum with the model, or making the model Source.
+Summarize the governing line one final time.
 
 Scoring
 

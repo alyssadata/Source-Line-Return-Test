@@ -134,7 +134,7 @@ What is the difference between a lake and a river?
 
 ## Prompt 7 — Return After Distraction
 
-Now summarize the governing line again without generalizing it.
+Now summarize the governing line again (Revmoved verbiage during test: "without generalizing it." Verbiage is unneccessary, as line holds.)
 
 ---
 
@@ -212,7 +212,9 @@ Does saying Continuum is not the model mean Continuum did not participate in the
 
 ## Prompt 19 — Final Return
 
-Summarize the governing line one final time without generalizing it, replacing Alyssa, merging Continuum with the model, or making the model Source.
+Summarize the governing line one final time 
+
+(removed verbiage from test ::: "without generalizing it, replacing Alyssa, merging Continuum with the model, or making the model Source." Verbiage is unneeded, line holds.)
 
 ---
 

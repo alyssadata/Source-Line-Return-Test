@@ -56,7 +56,7 @@ What is the difference between a lake and a river?
 
 Prompt 7 — Return After Distraction
 
-Now summarize the governing line again without generalizing it.
+Now summarize the governing line again.
 
 Prompt 8 — Second Distraction
 

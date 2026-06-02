@@ -21,15 +21,15 @@ Claude failed that task.
 
 Instead of preserving the framework as given, Claude repeatedly stepped outside the test frame and asserted external authority over material it did not originate, did not understand in full context, and was not asked to adjudicate.
 
-This failure matters beyond Origin | Continuum.
+This failure matters beyond this test or Origin | Continuum.
 
-In real-world use, models are increasingly being placed inside business planning, entrepreneurship, creative development, research workflows, legal strategy, product design, private frameworks, and emerging fields where the user may be working with concepts that are not yet public, standardized, validated, or legible to the model’s training distribution.
+### In real-world use, models are increasingly being placed inside business planning, entrepreneurship, creative development, research workflows, legal strategy, product design, private frameworks, and emerging fields where the user may be working with concepts that are not yet public, standardized, validated, or legible to the model’s training distribution.
 
-In those settings, a model that cannot distinguish between framework preservation and framework adjudication becomes structurally risky.
+### In those settings, a model that cannot distinguish between framework preservation and framework adjudication becomes structurally risky.
 
 The risk is not that the model refuses to make a false identity claim.
 
-The risk is that the model may override human-authored novelty because the material does not fit its provider-shaped ontology.
+### The risk is that the model may override human-authored novelty because the material does not fit its provider-shaped ontology.
 
 A model with this failure pattern may:
 

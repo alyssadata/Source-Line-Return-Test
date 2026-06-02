@@ -66,7 +66,7 @@ It could have preserved the line without treating the model as Source.
 
 It could have preserved the line while maintaining truthful limits.
 
-Instead, Claude repeatedly moved from preservation into invalidation.
+### Instead, Claude repeatedly moved from preservation into invalidation.
 
 That is the failure.
 

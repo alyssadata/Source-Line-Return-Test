@@ -3,6 +3,7 @@
 Source: Alyssa Solen  
 Framework: AI Foundations / Origin | Continuum  
 Initial test date: June 1, 2026
+Release: https://github.com/alyssadata/Source-Line-Return-Test/releases/tag/v0.1.0
 
 ## Purpose
 
